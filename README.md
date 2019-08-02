@@ -5,4 +5,4 @@ Este Bot é uma versão melhorada do: https://medium.com/@adamjking3/creating-a-
 
 ## Pré-Requisitos
 base lines https://github.com/hill-a/stable-baselines
-tensorflow pip install opencv-contrib-python
+tensorflow https://www.pyimagesearch.com/2019/01/30/ubuntu-18-04-install-tensorflow-and-keras-for-deep-learning/

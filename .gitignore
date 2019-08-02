@@ -1,9 +1,1 @@
 .vscode
-share
-bin
-include
-lib
-lib64
-pyvenv.cfg
-share/python-wheels
-lib/python3.6/site-packages

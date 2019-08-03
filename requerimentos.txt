@@ -1,1 +1,2 @@
 -r src/btc/requirements.no-gpu.txt
+tensorflow

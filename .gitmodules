@@ -1,0 +1,3 @@
+[submodule "src/btc"]
+	path = src/btc
+	url = git@github.com:neoricalex/RLTrader.git

@@ -4,3 +4,6 @@
 [submodule "src/base"]
 	path = src/base
 	url = https://github.com/neoricalex/Stock-Trading-Environment
+[submodule "src/bot"]
+	path = src/bot
+	url = git@github.com:neoricalex/trading-bot.git
